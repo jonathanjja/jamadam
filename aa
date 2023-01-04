@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Enfermeria</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      http-equiv="x-UA-Compatible"
+      content="width=device-width, initial-scale=1"
+    />
+    <meta name="generator" content="Wolf Framework 2.2.0" />
+    <meta name="generator" content="Decibel 2.2.1" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+
+    <!-- import the webpage's stylesheet-->
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">LOGO</a>
+
+        <ul class="nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">INICIO</a>
+          </li>
+        </ul>
+        <ul class="nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">UBICACIÓN</a>
+          </li>
+        </ul>
+        <ul class="nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Acerca de...</a>
+          </li>
+        </ul>
+      </nav>
+      <div class="cover d-flex justify-content-center aling-items-center flex-column">
+        <h1>FacilitoCoffe</h1>
+        <p>El mejor café de la ciudad</p>
+      </div>
+      
+      
+    </header>
+  </body>
+</html>
